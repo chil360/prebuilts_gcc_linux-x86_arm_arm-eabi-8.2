@@ -53,7 +53,7 @@ if [ x$1 != x ] ; then
   prefix=$1
   shift
 else
-  prefix=/tmp/dgboter/bbs/rhev-vm11--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install
+  prefix=/tmp/dgboter/bbs/rhev-vm10--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install
 fi
 
 # Allow for alternate isysroot in which to find headers

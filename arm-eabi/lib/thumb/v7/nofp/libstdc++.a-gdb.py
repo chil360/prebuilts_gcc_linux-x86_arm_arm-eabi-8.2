@@ -19,8 +19,8 @@ import gdb
 import os
 import os.path
 
-pythondir = '/tmp/dgboter/bbs/rhev-vm11--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install/share/gcc-8.2.1/python'
-libdir = '/tmp/dgboter/bbs/rhev-vm11--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install/arm-eabi/lib/thumb/v7/nofp'
+pythondir = '/tmp/dgboter/bbs/rhev-vm10--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install/share/gcc-8.2.1/python'
+libdir = '/tmp/dgboter/bbs/rhev-vm10--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install/arm-eabi/lib/thumb/v7/nofp'
 
 # This file might be loaded when there is no current objfile.  This
 # can happen if the user loads it manually.  In this case we don't

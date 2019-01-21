@@ -1,5 +1,5 @@
 This is as.info, produced by makeinfo version 4.13 from
-/tmp/dgboter/bbs/rhev-vm11--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/src/binutils-gdb/gas/doc/as.texinfo.
+/tmp/dgboter/bbs/rhev-vm10--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/src/binutils-gdb/gas/doc/as.texinfo.
 
 INFO-DIR-SECTION Software development
 START-INFO-DIR-ENTRY
@@ -25,7 +25,7 @@ Using as
 ********
 
 This file is a user guide to the GNU assembler `as' (GNU Toolchain for
-the A-profile Architecture 8.2-2018.11 (arm-rel-8.26)) version 2.30.0.
+the A-profile Architecture 8.2-2019.01 (arm-rel-8.28)) version 2.30.0.
 
    This document is distributed under the terms of the GNU Free
 Documentation License.  A copy of the license is included in the
@@ -24481,7 +24481,7 @@ contact that organization first.
 individuals in the file `etc/SERVICE' in the GNU Emacs distribution.
 
    In any event, we also recommend that you send bug reports for `as'
-to `http://www.sourceware.org/bugzilla/'.
+to `https://bugs.linaro.org/'.
 
    The fundamental principle of reporting bugs usefully is this:
 *report all the facts*.  If you are not sure whether to state a fact or
@@ -28727,9 +28727,9 @@ Node: Z8000 Opcodes863557
 Node: Reporting Bugs873499
 Node: Bug Criteria874225
 Node: Bug Reporting874992
-Node: Acknowledgements881641
-Ref: Acknowledgements-Footnote-1886606
-Node: GNU Free Documentation License886632
-Node: AS Index911801
+Node: Acknowledgements881630
+Ref: Acknowledgements-Footnote-1886595
+Node: GNU Free Documentation License886621
+Node: AS Index911790
 
 End Tag Table

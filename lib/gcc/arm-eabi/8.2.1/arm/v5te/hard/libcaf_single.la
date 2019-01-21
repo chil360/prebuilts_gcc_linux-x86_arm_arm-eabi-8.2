@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/tmp/dgboter/bbs/rhev-vm11--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install/lib/gcc/arm-eabi/8.2.1/arm/v5te/hard'
+libdir='/tmp/dgboter/bbs/rhev-vm10--rhe6x86_64/buildbot/rhe6x86_64--arm-eabi/build/build-arm-eabi/install/lib/gcc/arm-eabi/8.2.1/arm/v5te/hard'
